@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../header"
+		},
+		{
+			"path": "../book notes"
+		},
+		{
+			"path": "../blog"
+		},
+		{
+			"path": "../case study"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "book notes"
+	}
+}

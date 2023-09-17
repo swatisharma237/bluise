@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-takota: Takota;
+  --cap-02: "Roboto Condensed";
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --cap-02-size: 12px;
+  --paragraph-size: 16px;
+  --heading-h4-size: 32px;
+
+  /* Colors */
+  --black: #1c1d28;
+  --black1: #161722;
+  --color-seashell: #fcf3ee;
+  --color-darkorange-100: #ff9933;
+  --white: #fff;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+}

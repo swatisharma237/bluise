@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Condensed:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Takota:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="header">
+      <button class="nav-button" id="navButton">
+        <div class="button-text">Contact</div>
+      </button>
+      <a class="ss-parent">
+        <div class="ss">SS</div>
+        <div class="ss1">SS</div>
+      </a>
+      <div class="links-list">
+        <a class="blog">Blog</a>
+        <a class="book-notes">book notes</a>
+        <a class="newsletter">Newsletter </a>
+        <a class="portfolio">Portfolio</a>
+        <a class="about">About</a>
+        <div class="divider"></div>
+      </div>
+    </div>
+
+    <script>
+      var navButton = document.getElementById("navButton");
+      if (navButton) {
+        navButton.addEventListener("click", function () {
+          window.open("https://www.instagram.com/visualarttolife/");
+        });
+      }
+      </script>
+  </body>
+</html>

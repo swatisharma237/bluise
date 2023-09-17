@@ -1,0 +1,448 @@
+.atomic-habits-notes-1 {
+  position: relative;
+  width: 100%;
+  height: 4946px;
+  background-image: url(./public/Your\ money\ or\ your\ life\ note.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.button-text {
+  position: relative;
+  font-size: var(--label-02-size);
+  line-height: 16px;
+  text-transform: uppercase;
+  font-family: var(--label-02);
+  color: var(--black1);
+  text-align: center;
+}
+.nav-button,
+.nav-button:hover {
+  align-items: center;
+  justify-content: flex-start;
+}
+.nav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 20px 48px;
+  background-color: var(--color-darkorange-100);
+  position: absolute;
+  height: 56.25%;
+  width: 9.67%;
+  top: 27.5%;
+  right: 5%;
+  bottom: 16.25%;
+  left: 85.33%;
+  border-radius: 12px;
+  box-shadow: 0 4px 4px #000;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.nav-button:hover {
+  background-color: #ff8001;
+}
+.ss,
+.ss1 {
+  position: relative;
+}
+.ss {
+  filter: blur(9px);
+}
+.ss1 {
+  color: #000;
+  margin-top: -83px;
+}
+.ss-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  left: 78px;
+  width: 58px;
+  height: 85px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 3px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: inherit;
+}
+.blog,
+.book-notes {
+  position: absolute;
+  top: 38.75%;
+}
+.blog {
+  text-decoration: none;
+  left: 46.7%;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.9;
+}
+.book-notes {
+  left: 62.27%;
+}
+.book-notes,
+.newsletter,
+.portfolio {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.9;
+}
+.newsletter {
+  position: absolute;
+  top: 38.75%;
+  left: 85.11%;
+}
+.portfolio {
+  top: 40%;
+  left: 25.72%;
+}
+.about,
+.divider,
+.portfolio {
+  position: absolute;
+}
+.about {
+  text-decoration: none;
+  top: 38.75%;
+  left: 9.64%;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.9;
+}
+.divider {
+  height: 102.5%;
+  width: 0.34%;
+  top: -1.25%;
+  right: 99.83%;
+  bottom: -1.25%;
+  left: -0.17%;
+  border-right: 2px solid var(--black);
+  box-sizing: border-box;
+  opacity: 0.1;
+}
+.links-list {
+  position: absolute;
+  top: 5px;
+  left: 415px;
+  width: 591px;
+  height: 80px;
+  font-size: var(--label-02-size);
+  color: var(--black);
+  font-family: var(--label-02);
+}
+.header {
+  position: relative;
+  background-color: #fcf3ee;
+  width: 100%;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkorange-100);
+  font-family: var(--font-takota);
+}
+
+.button-text1 {
+  position: relative;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.button {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 39.26%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 60.74%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  padding: 24px 64px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  color: inherit;
+}
+.button:hover {
+  background-color: #ff8000;
+}
+.click-here-to {
+  position: absolute;
+  top: 31.25%;
+  left: 16.02%;
+  line-height: 24px;
+  color: var(--white);
+  text-align: right;
+  opacity: 0.8;
+}
+.input {
+  position: absolute;
+  height: 34.78%;
+  width: 100%;
+  top: 65.22%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-sizing: border-box;
+}
+.subscribe-to-get {
+  position: absolute;
+  width: 73.63%;
+  top: 0;
+  left: 0;
+  font-size: var(--heading-h4-size);
+  letter-spacing: -0.01em;
+  line-height: 44px;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--white);
+  text-align: left;
+}
+.subscription {
+  position: absolute;
+  top: 64px;
+  left: 750px;
+  width: 512px;
+  height: 184px;
+  text-align: center;
+  color: var(--black1);
+}
+.icondribbble {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.facebook-negative,
+.icondribbble,
+.vector-icon {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.facebook-negative {
+  text-decoration: none;
+  height: 100%;
+  width: 12.9%;
+  top: 0;
+  right: 87.1%;
+  bottom: 0;
+}
+.vector-icon {
+  height: 81.25%;
+  width: 100%;
+  top: 9.37%;
+  right: 0;
+  bottom: 9.37%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.linkedin-negative,
+.twitter-negative {
+  text-decoration: none;
+  height: 100%;
+  width: 12.9%;
+  bottom: 0;
+}
+.twitter-negative {
+  position: absolute;
+  top: 0;
+  right: 58.06%;
+  left: 29.03%;
+  overflow: hidden;
+}
+.linkedin-negative {
+  right: 29.03%;
+  left: 58.06%;
+}
+.iconinstagram,
+.linkedin-negative,
+.linkedin-negative1 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.iconinstagram {
+  height: 125%;
+  width: 125%;
+  right: -25%;
+  bottom: -25%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.linkedin-negative1 {
+  text-decoration: none;
+  height: 100%;
+  width: 12.9%;
+  right: 0;
+  bottom: 0;
+  left: 87.1%;
+}
+.social-wrapper {
+  position: absolute;
+  height: 26.67%;
+  width: 100%;
+  top: 73.33%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.connect1 {
+  position: absolute;
+  top: 0;
+  left: 29.03%;
+  line-height: 24px;
+}
+.connect {
+  position: absolute;
+  top: 16px;
+  left: 1262px;
+  width: 124px;
+  height: 60px;
+}
+.blog1,
+.book-notes1 {
+  position: absolute;
+  left: 0;
+}
+.blog1 {
+  text-decoration: none;
+  top: 68.67%;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.78;
+}
+.book-notes1 {
+  top: 91.57%;
+}
+.book-notes1,
+.newsletter1,
+.portfolio1 {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.78;
+}
+.portfolio1 {
+  position: absolute;
+  top: 45.78%;
+  left: 0;
+}
+.newsletter1 {
+  top: 22.89%;
+}
+.about1,
+.links-list1,
+.newsletter1 {
+  position: absolute;
+  left: 0;
+}
+.about1 {
+  text-decoration: none;
+  top: 0;
+  text-transform: uppercase;
+  color: inherit;
+  opacity: 0.78;
+}
+.links-list1 {
+  top: 44px;
+  width: 66px;
+  height: 166px;
+}
+.quicklinks {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--label-02-size);
+  line-height: 24px;
+  text-align: right;
+}
+.links-column {
+  position: absolute;
+  top: 64px;
+  left: 537px;
+  width: 66px;
+  height: 210px;
+  font-size: var(--cap-02-size);
+}
+.new-delhi-india,
+.swatigraphics23gmailcom {
+  position: absolute;
+  top: 61.11%;
+  left: 0;
+  text-transform: uppercase;
+}
+.new-delhi-india {
+  top: 0;
+}
+.address-number {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 120px;
+  height: 36px;
+}
+.design-and-devlope {
+  margin: 0;
+}
+.swati-sharma-2022-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-transform: uppercase;
+}
+.content-left {
+  position: absolute;
+  top: 128px;
+  left: 110px;
+  width: 206px;
+  height: 100px;
+  font-size: var(--cap-02-size);
+}
+.ss-group,
+.ss2,
+.ss3 {
+  position: absolute;
+  top: 0;
+}
+.ss2 {
+  left: 0;
+  filter: blur(9px);
+}
+.ss-group,
+.ss3 {
+  left: 5px;
+  color: var(--color-seashell);
+}
+.ss-group {
+  text-decoration: none;
+  top: 40px;
+  left: 146px;
+  width: 60px;
+  height: 84px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkorange-100);
+  font-family: var(--font-takota);
+}
+.footer {
+  position: relative;
+  background-color: var(--black);
+  width: 100%;
+  height: 312px;
+  text-align: left;
+  font-size: var(--label-02-size);
+  color: var(--white);
+  font-family: var(--label-02);
+}

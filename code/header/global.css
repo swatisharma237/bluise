@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --label-02: "Roboto Condensed";
+  --font-takota: Takota;
+
+  /* font sizes */
+  --label-02-size: 16px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --black1: #1c1d28;
+  --black: #161722;
+  --color-darkorange-100: #ff9933;
+}
